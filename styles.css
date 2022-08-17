@@ -1,0 +1,23 @@
+* {
+    width: 500px;
+}
+
+img {
+    height: 300px;
+    width: auto;
+}
+
+h1, h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    background-color: rgb(27, 95, 139);
+    text-align: center;
+}
+
+ul li {
+    width: 450;
+}
+
+a {
+    font-size: 20px;
+}
